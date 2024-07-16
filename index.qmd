@@ -1,0 +1,18 @@
+---
+title: "Neha Kotha"
+about:
+  template: jolla
+  image: assets/Headshot.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nehakotha7@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/nehakotha7
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/neha-kotha/
+---
+
+Welcome to my website! My name is Neha Kotha and I am rising Junior at the University of Pittsburgh. I am pursuing a major in Data Science, a minor in Computer Science, and a certificate in Digital Media.

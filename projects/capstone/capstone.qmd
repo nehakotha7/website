@@ -1,0 +1,21 @@
+---
+title: "Capstone"
+description: "Capstone project for Carnegie Mellon Sports Analytics Summer Undergraduate Research Experience 2024"
+date: July 2024
+about:
+  template: solana
+  image: cover.png
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/nehakotha7
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1ol66WBsCZmR8Umm8a6jy-t9BFpNCM59FGii47Q0GBLk/edit?usp=sharing
+    - icon: file
+      text: Poster
+      href: bit.ly/mnbvpoiu
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+---

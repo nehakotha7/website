@@ -1,0 +1,15 @@
+---
+title: "EDA Project"
+description: "EDA project for Carnegie Mellon Sports Analytics Summer Undergraduate Research Experience 2024"
+date: June 2024
+about:
+  template: solana
+  image: edacover.png
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/nehakotha7
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1_r0uElS9tPglqkTAiJiNBaLrsHBWWKWAvBimbWt2mrM/edit?usp=sharing
+---

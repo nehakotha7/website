@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Neha Kotha"
+  navbar:
+    background: '#1D2A51'
+    foreground: '#FFFFFF'
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/neha-kotha/
+      - icon: github
+        href: https://github.com/nehakotha7
+      - icon: file-pdf-fill
+        href: assets/NehaKotha-CVcmu_2024.pdf
+      
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    #  - custom.scss
+    css: styles.css
+    toc: true
+
+
+
